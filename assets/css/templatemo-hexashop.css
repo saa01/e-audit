@@ -711,7 +711,7 @@ banner
   color: #fff;
   font-size: 24px;
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 
 .main-banner .right-content .right-first-image .thumb .inner-content span {
@@ -725,7 +725,7 @@ banner
   top: 15px;
   right: 15px;
   left: 15px;
-  bottom: 15px;
+  bottom: 50px;
   text-align: center;
   background-color: rgba(42,42,42,.97);
   opacity: 0;
@@ -2376,4 +2376,35 @@ responsive
   100% {
     opacity: 0;
   }
+}
+
+#breadc-image{
+  width: 90%;
+  border-radius: 30%;
+  box-shadow: 10px 0 10px black;
+  height: 1300px;
+}
+
+#sweets-2{
+  width: 80%;
+  border-radius: 30%;
+  box-shadow: 50px 0 50px rgb(244, 240, 240);
+}
+
+#sweets-3{
+  width: 80%;
+  border-radius: 30%;
+  box-shadow: 50px 0 50px rgb(244, 240, 240);
+}
+
+#sweets-4{
+  width: 80%;
+  border-radius: 30%;
+  box-shadow: 50px 0 500px rgb(244, 240, 240);
+}
+
+#sweets-5{
+  width: 80%;
+  border-radius: 30%;
+  box-shadow: 50px 0 500px rgb(244, 240, 240);
 }
